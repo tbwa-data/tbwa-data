@@ -1,6 +1,6 @@
-# 🏦 TBWA Data Intelligence Hub
+# TBWA Data Intelligence Hub
 
-Bienvenido al centro de monitoreo de datos. Aquí puedes supervisar la salud de los pipelines que alimentan el dashboard de **Casa Andina / iO**.
+Bienvenido al centro de monitoreo de datos. Aquí puedes supervisar la salud de los pipelines que alimentan el dashboard de **iO**.
 
 ### 🛰️ System Health Monitor (Real-time)
 
