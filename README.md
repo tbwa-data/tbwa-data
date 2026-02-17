@@ -2,7 +2,7 @@
 
 Bienvenido al centro de monitoreo de datos. Aquí puedes supervisar la salud de los pipelines que alimentan el dashboard de **iO**.
 
-### 🛰️ System Health Monitor (Real-time)
+### System Health Monitor (Real-time)
 
 | Motor de Extracción | Estado Actual | Logs de Ejecución |
 | :--- | :--- | :--- |
@@ -11,7 +11,7 @@ Bienvenido al centro de monitoreo de datos. Aquí puedes supervisar la salud de 
 
 ---
 
-### 🛠️ Arquitectura del Ecosistema
+### Arquitectura del Ecosistema
 * **Data Sources:** Google Alerts (RSS) & Onclusive API.
 * **Pipeline:** GitHub Actions (Python scripts).
 * **Database:** Supabase (PostgreSQL).
