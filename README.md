@@ -18,4 +18,4 @@ Bienvenido al centro de monitoreo de datos. Aquí puedes supervisar la salud de 
 * **Frontend:** Lovable (React/Vite).
 
 ---
-*Última actualización manual del sistema: febrero 2026*
+*Última actualización manual del sistema: marzo 2026*
