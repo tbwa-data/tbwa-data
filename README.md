@@ -14,7 +14,7 @@ Este repositorio centraliza la orquestación de datos entre los motores de extra
 
 ---
 
-## 🛠️ Arquitectura Técnica
+## Arquitectura Técnica
 
 ### 1. Extracción (Python & GitHub Actions)
 - **Frecuencia:** Ejecución programada cada 4 horas (o manual vía Actions).
