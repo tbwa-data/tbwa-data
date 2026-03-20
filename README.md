@@ -1,10 +1,10 @@
-# 📊 TBWA Data Intelligence - Listening Hub & Voto Informado
+# TBWA Data Intelligence - Listening Hub & Voto Informado
 
 Este repositorio centraliza la orquestación de datos entre los motores de extracción (**Onclusive**, **Google Alerts**) y el ecosistema de **Supabase / Lovable**. Automatiza la ingesta, limpieza de sentimientos y categorización de menciones para el mercado peruano.
 
 ---
 
-## 🚀 Matriz de Sincronización (Estado Actual)
+## Matriz de Sincronización (Estado Actual)
 
 | Proyecto | Motor de Extracción | Estado Actual | Logs de Ejecución |
 | :--- | :--- | :--- | :--- |
